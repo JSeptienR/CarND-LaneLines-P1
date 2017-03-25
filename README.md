@@ -1,4 +1,4 @@
-# Readme 
+# Readme
 
 # **Finding Lane Lines on the Road Writeup**
 
@@ -6,8 +6,8 @@ The goals / steps of this project are the following:
 * Make a pipeline that finds lane lines on the road
 * Reflect on your work in a written report
 
-[original]: /test_images/solidWhiteRight.jpg
 ---
+[original]: ./test_images/solidWhiteRight.jpg
 
 ## Reflection
 
